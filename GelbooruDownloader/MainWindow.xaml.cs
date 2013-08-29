@@ -24,7 +24,7 @@ namespace GelbooruDownloader
     /// </summary>
     public partial class MainWindow : Window
     {
-        int XML_ELEMENT_IMAGE_URL = 7;
+        int XML_ELEMENT_IMAGE_URL = 2;
 
         public MainWindow()
         {
